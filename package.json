@@ -1,0 +1,10 @@
+{
+    "name": "WebTast",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "your build command here"
+    },
+    "dependencies": {
+        "package.json": "^2.0.1"
+    }
+}
